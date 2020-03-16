@@ -1,9 +1,9 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import ReactDOM from "react-dom";
 
 class App extends Component {
   render() {
-    return <h2> React App</h2>;
+    return <Fragment></Fragment>;
   }
 }
 
