@@ -1,2 +1,1 @@
-# myAdmin
-A Django React Integration
+# A Django React Integration
