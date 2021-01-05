@@ -23,7 +23,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
     "minimist": "^1.2.5",
